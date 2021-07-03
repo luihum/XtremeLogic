@@ -10,5 +10,5 @@ requirements: [
   "lead/800" ]
 consumes: {
    liquid: {
-     liquid: cryo-fluid,
-     amount: 0.16 } }
+     liquid: cryofluid,
+     amount: 0.16 }}
