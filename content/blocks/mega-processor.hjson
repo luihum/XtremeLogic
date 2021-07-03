@@ -1,8 +1,14 @@
 name: "Mega Processor"
 type: LogicBlock
 instructionsPerTick: 75
-range: 120.0
+range: 512
 category: logic
 size: 4
 health: 5000
-requirements: [ "copper/500", "lead/800" ]
+requirements: [ 
+  "copper/500", 
+  "lead/800" ]
+consumes: {
+   liquid: {
+     liquid: cryo-fluid,
+     amount: 0.16 } }
