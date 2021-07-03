@@ -1,0 +1,7 @@
+name: "Mega Processor"
+type: LogicBlock
+instructionsPerTick: 75
+range: 120.0
+category: logic
+size: 4
+health: 5000
