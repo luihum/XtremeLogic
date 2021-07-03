@@ -4,3 +4,4 @@ author: Luihum
 description: "Better logic blocks and some random things"
 minGameVersion: 126
 hidden: false
+version: "0.1.0"
