@@ -2,5 +2,5 @@ name: xtreme-logic
 displayName: "[#00ff00]XtremeLogic"
 author: Luihum
 description: "Better logic blocks and some random things"
-minGameVersion: 127
+minGameVersion: 126
 hidden: false
