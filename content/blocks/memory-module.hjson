@@ -4,6 +4,9 @@ size: 3
 memoryCapacity: 2048
 category: logic
 health: 640
-
-# debug
-alwaysUnlocked: true
+requirements: [
+  "graphite/150", 
+  "silicon/150",
+  "phase-fabric/80",
+  "surge-alloy/30" 
+]
