@@ -1,0 +1,9 @@
+name: "Memory Module"
+type: MemoryBlock
+size: 3
+memoryCapacity: 2048
+category: logic
+health: 640
+
+# debug
+alwaysUnlocked: true
