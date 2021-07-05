@@ -2,7 +2,7 @@ name: "Message Bank"
 size: 2
 type: MessageBlock
 category: logic
-requirements: [ "graphite/200", "copper/50" ]
-health: 5000
+requirements: [ "graphite/25", "copper/10" ]
+health: 250
 maxNewLines: 4000
 maxTextLength: 32000
