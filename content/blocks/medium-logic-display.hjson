@@ -2,6 +2,6 @@ name: "Medium Logic Display"
 category: logic
 type: LogicDisplay
 requirements: [ "metaglass/150", "lead/200", "silicon/250"]
-displaySize: 128
+displaySize: 112
 size: 4
 health: 650
